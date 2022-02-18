@@ -1,38 +1,21 @@
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>, 👋 I'm Víc!
-> Web Software Developer 👨‍💻 & User Interface Designer (UI) -
-> Founder at [Eureka brain](https://www.eurekabrain.com.mx/)
+<div align="center">
+   <h3>Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>, 👋 I'm Víc!</h3>
+</div>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/soyvicgeek)
-[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Flores-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/soyvicgeek/)](https://www.linkedin.com/in/soyvicgeek/)
-[![Twitter Badge](http://img.shields.io/badge/-@soyvicgeek-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/soyvicgeek)](https://twitter.com/soyvicgeek)
-[![GitHub followers](https://img.shields.io/github/followers/soyvicgeek?label=Follow&style=social)](https://github.com/soyvicgeek/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-soyvicgeek-blue?style=social&logo=Instagram&link=https://www.instagram.com/soyvicgeek/)](https://www.instagram.com/soyvicgeek/)
+<div align="center">
+   <a target="_blank" href="https://www.instagram.com/soyvicgeek/">
+     <img src="./assets/instagram.svg" alt="soyvicgeek| Instagram" />
+   </a>
+   <a target="_blank" href="https://twitter.com/soyvicgeek/">
+     <img src="./assets/twitter.svg" alt="soyvicgeek | Twitter" />
+   </a>
+</div>
 
-```javascript
-const soyvicgeek = {
-    code: ["Javascript", "Typescript", "Dart", "php"],
-    technologies: {
-        mobileApp: ["Flutter App", "Ionic App"],
-        frontEnd: {
-            js: ["VanillaJs", "Angular", "VueJs"],
-            css: ["FlexibleBox", "CSSGrid", "GulpCSS", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "NestJS"],
-            php: ["PHP-pure"]
-        },
-        devOps: ["Docker🐳", "Apache"],
-        databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Socket.IO", "GraphQL"]
-    },
-    last update: "27-06-2021"
-};
-```
+<div align="center">
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=soyvicgeek&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
+   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=soyvicgeek&hide_border=true&show_icons=true&currStreakNum=58A6FF&sideNums=58A6FF&border=1F6FEB&currStreakLabel=C3D1D9&background=0D1117&sideLabels=C3D1D9&dates=58A6FF" />
+</div>
 
-<a href="https://github.com/soyvicgeek/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyvicgeek&title_color=fff&icon_color=79ff97&theme=radical&hide_langs_below=1" />
-</a>
-<a href="https://github.com/soyvicgeek/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=soyvicgeek&show_icons=true&title_color=fff&icon_color=79ff97&theme=radical&line_height=40" />
-</a>
-<br>
+<div align="center">  
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyvicgeek&layout=compact&theme=onedark&hide_border=true&hide=java,javascript,html,css,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
+</div>
